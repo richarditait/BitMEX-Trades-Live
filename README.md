@@ -10,4 +10,4 @@ This script uses Bitmex's public trades websocket and does a few things:
 3. It highlights orders that exceed a certain size.
 
 ## How To Use
-1. Then type in the symbol name (e.g. XBTUSD), the minimum order threshold (e.g. 5000), and click submit.
+1. Type in the symbol name (e.g. XBTUSD), the minimum order threshold (e.g. 5000), and click submit.
